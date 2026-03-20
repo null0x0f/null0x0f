@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 📫 **How to reach me:** 可以在这里给我提 Issue，或者通过邮箱联系我哦！
 - ⚡ **Fun fact:** 我不仅喜欢写严谨的后端和架构代码，业余时间还超喜欢折腾带 Gemini API 的桌面小宠物！写代码累了的时候，记得也要像我一样喝杯红茶、吃点小点心放松一下呀 ☕️🍰！
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=null0x0f&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=null0x0f&layout=compact&theme=radical)
