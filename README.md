@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my profile!
 
-I'm a passionate **C++ Engineer**! I love exploring the world of code, whether it's building high-performance services on Linux or developing GUI applications. 🎸
+ I love exploring the world of code, whether it's building high-performance services on Linux or developing GUI applications. 🎸
 
 Here are some ideas to get you started:
 
